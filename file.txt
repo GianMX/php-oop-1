@@ -1,0 +1,7 @@
+id INT
+email VARCHAR
+nome VARCHAR
+cognome VARCHAR
+eta TINYINT
+citta INT
+hobby INT
